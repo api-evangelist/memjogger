@@ -1,0 +1,53 @@
+{
+    "name": "Memjogger",
+    "description": "<p>Memjogger automates your learning process so you can memorize &amp; retain large amount of information easier. Crafted for pupils, students, professionals - anyone coping with high volume of learning material<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/memjogger-logo.png",
+    "tags": [
+        "api provider",
+        "flashcards",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/memjogger\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Memjogger",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/memjogger-logo.png",
+            "humanURL": "https:\/\/memjogger.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/memjogger-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/memjogger-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Pricing",
+            "url": "http:\/\/memjogger.com\/free-trial"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/memjogger"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/memjogger.com\/help\/api"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/memjogger.com\/"
+        }
+    ]
+}
